@@ -1,0 +1,6 @@
+E:\Shivin\Projects\ADUserInformation\ADUserInformation\bin\Debug\ADUserInformation.dll
+E:\Shivin\Projects\ADUserInformation\ADUserInformation\bin\Debug\ADUserInformation.pdb
+E:\Shivin\Projects\ADUserInformation\ADUserInformation\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+E:\Shivin\Projects\ADUserInformation\ADUserInformation\obj\Debug\ResolveAssemblyReference.cache
+E:\Shivin\Projects\ADUserInformation\ADUserInformation\obj\Debug\ADUserInformation.dll
+E:\Shivin\Projects\ADUserInformation\ADUserInformation\obj\Debug\ADUserInformation.pdb

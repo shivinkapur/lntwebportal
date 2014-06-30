@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="98af2ce1-6243-44c3-b96d-17b861acd08a" Scope="Site" Title="ADUserInformation Feature1">
+  <ElementManifests>
+    <ElementManifest Location="wpUserInfo\Elements.xml" />
+    <ElementFile Location="wpUserInfo\wpUserInfo.webpart" />
+    <ElementManifest Location="wpApproval\Elements.xml" />
+    <ElementFile Location="wpApproval\wpApproval.webpart" />
+  </ElementManifests>
+</Feature>
